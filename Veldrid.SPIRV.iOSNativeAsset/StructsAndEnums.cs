@@ -1,0 +1,4 @@
+namespace Veldrid.SPIRV.iOSNativeAsset
+{
+
+}

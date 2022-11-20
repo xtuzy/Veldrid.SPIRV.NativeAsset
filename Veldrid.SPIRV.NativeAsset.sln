@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veldrid.SPIRV.AndroidNativeAsset", "Veldrid.SPIRV.AndroidNativeAsset\Veldrid.SPIRV.AndroidNativeAsset.csproj", "{D0AA3B79-A124-4566-853E-90636E6D769E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veldrid.SPIRV.iOSNativeAsset", "Veldrid.SPIRV.iOSNativeAsset\Veldrid.SPIRV.iOSNativeAsset.csproj", "{872A7E1C-4FCB-4CA9-97CB-EFB686D3CD68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veldrid.SPIRV.DesktopNativeAsset", "Veldrid.SPIRV.DesktopNativeAsset\Veldrid.SPIRV.DesktopNativeAsset.csproj", "{D98370D7-48D7-49BB-ABA6-0A27C655BB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0AA3B79-A124-4566-853E-90636E6D769E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AA3B79-A124-4566-853E-90636E6D769E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AA3B79-A124-4566-853E-90636E6D769E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AA3B79-A124-4566-853E-90636E6D769E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872A7E1C-4FCB-4CA9-97CB-EFB686D3CD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872A7E1C-4FCB-4CA9-97CB-EFB686D3CD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872A7E1C-4FCB-4CA9-97CB-EFB686D3CD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872A7E1C-4FCB-4CA9-97CB-EFB686D3CD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98370D7-48D7-49BB-ABA6-0A27C655BB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98370D7-48D7-49BB-ABA6-0A27C655BB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98370D7-48D7-49BB-ABA6-0A27C655BB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98370D7-48D7-49BB-ABA6-0A27C655BB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117A1210-0A0C-42DA-8E7F-AA04E95D55CC}
+	EndGlobalSection
+EndGlobal
