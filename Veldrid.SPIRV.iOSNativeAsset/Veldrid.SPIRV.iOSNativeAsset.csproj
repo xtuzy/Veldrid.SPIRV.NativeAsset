@@ -10,7 +10,7 @@
     <DebugType>Embedded</DebugType>
     <EmbedAllSources>True</EmbedAllSources>
     <NoBindingEmbedding>False</NoBindingEmbedding>
-    <Version>4.9.1</Version>
+    <Version>4.9.2</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
